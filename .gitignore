@@ -215,3 +215,7 @@ FakesAssemblies/
 **/*.Server/GeneratedArtifacts
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
+
+\.idea/\.idea\.FunDns/\.idea/
+
+\.idea/\.idea\.FunDns/
